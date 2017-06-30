@@ -1,0 +1,22 @@
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\mocking_ef_datacontext.dll.config
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\mocking_ef_datacontext.dll
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\mocking_ef_datacontext.pdb
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\EntityFramework.dll
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\EntityFramework.SqlServer.dll
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\Newtonsoft.Json.dll
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\System.Net.Http.Extensions.dll
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\System.Net.Http.Formatting.dll
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\System.Net.Http.Primitives.dll
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\System.Web.Http.dll
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\System.Web.Http.WebHost.dll
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\EntityFramework.xml
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\EntityFramework.SqlServer.xml
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\Newtonsoft.Json.xml
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\System.Net.Http.Extensions.xml
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\System.Net.Http.Formatting.xml
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\System.Net.Http.Primitives.xml
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\System.Web.Http.xml
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\bin\System.Web.Http.WebHost.xml
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\obj\Debug\mocking ef datacontext.csproj.App.config
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\obj\Debug\mocking_ef_datacontext.dll
+C:\programming\learninghabits_material\26 - Mocking EF DataContext\mocking ef datacontext\code\after\mocking ef datacontext\obj\Debug\mocking_ef_datacontext.pdb
